@@ -90,7 +90,6 @@ footer{
 
 /* INDEX */
 nav{
-    height: 120px;
     width: 100%;
     background-color: crimson;
 }
@@ -108,12 +107,10 @@ a:hover{
     color:black;
 }
 
-
 nav li{
     list-style: none;
     float:left;
 }
-
 
 p{
     font-family: Verdana, Tahoma, sans-serif;
@@ -122,8 +119,6 @@ p{
 
 
 .footer{
-    height: 120px;
-    width: 100%;
     font-family: Verdana,Tahoma, sans-serif;
     font-size: 15px;
     text-align: center;
@@ -165,11 +160,6 @@ a:hover{
     justify-content: center;
     margin-bottom: 80px;
 }
-
-
-
-
-
 
 
 
